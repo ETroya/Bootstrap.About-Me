@@ -9,6 +9,8 @@ body {
 }
 .jumbotron-content {
     padding: 20px 20px 200px 50px; 
+    
+
    
 }
 section{
@@ -34,6 +36,22 @@ p{
 }
 
 .container2{
-    padding:  ;
+    border: 6px solid #B58B79;
+    border-radius: 15px;
 
+}
+.linktab{
+    
+    font-weight: auto;
+    font-size: 50px;
+    text-shadow: 1px 3px 3px #413733;
+    margin-top: auto;
+    padding: 5px;
+}
+.footer{
+    margin-top: auto;
+    padding: 5px;
+    font-weight: auto;
+    font-size: 64px;
+   
 }

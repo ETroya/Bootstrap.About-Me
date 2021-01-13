@@ -1,17 +1,40 @@
 # Bootstrap.About-Me
 Get to know me a little more
 I explain a little bit about myself. 
+I added a few of my projects that I completed.
+
+[Main Repo link](https://github.com/ETroya/Bootstrap.About-Me)<br>
+This is the main site that contains all my information. 
 
 The programs that I used for this website are:
-
 HTML 5
-Stlye.CSS
+CSS
 Bootstrap
 Google Search engine 🦁
 
 
-[Main Repo link](https://github.com/ETroya/Bootstrap.About-Me)<br>
 [Deployed projects](https://versetile.netlify.app/)<br>
-[Deployed projects] (https://etroya.netlify.app/)
 
-<iframe src="https://drive.google.com/file/d/11bEbXDShMJJ8zs5oV3RU1xZBk8F9eCol/preview" width="640" height="480"></iframe>
+Group project that was completed by 5 people. 
+The purpose of this app would be that the user would be able to search their favorite song lyrics by their favorite artist. The bonus feature of this app is that they can translate the lyrics to a different language. If you look at other lyric websites you'll see that they are missing translations. This would also benefit the artist with exposure to their music.
+
+Programs used:
+
+HTML 5
+CSS
+Bootstrap
+Bulma
+MusicxMatch API 
+Language Translator API
+
+[Portfolio](https://etroya.netlify.app/)<br>
+-updated verision of the portfolio
+
+[Generate-Password](https://github.com/ETroya/Generate-Password)<br>
+Generated a Password in order to help others make their own password
+
+Programs used:
+
+HTML
+Javascript
+CSS
