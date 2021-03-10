@@ -1,3 +1,11 @@
+.screen{
+    background-image: url("../images/woods.jpg");
+    padding-bottom: 60px; 
+    background-position: cover; 
+    background-repeat: no-repeat; 
+
+}
+
 
 body {
     padding-bottom: 60px;   
@@ -5,17 +13,20 @@ body {
     background-image: url("../images/woods.jpg"); 
     background-repeat: no-repeat;    
     background-size: cover; 
+    background-position: cover;
+    height: 100vh;
+
 
 }
 .jumbotron-content {
-    padding: 20px 20px 200px 50px; 
-    
-
-   
+    padding: 20px 20px 200px 40px;   
 }
 section{
     background-color:lightgreen;
-    border-radius: 25px;    
+    border-radius: 50px; 
+    background-size: auto;
+
+   
 }
 
 p{
@@ -25,7 +36,7 @@ p{
 }
 
 .container{
-    font-weight: 300;
+    font-weight: auto;
     font-family: 'Indie Flower', cursive;
     text-align: center;
     
@@ -37,7 +48,7 @@ p{
 
 .container2{
     border: 6px solid #B58B79;
-    border-radius: 15px;
+    border-radius: 15px; 
 
 }
 .linktab{
@@ -50,8 +61,25 @@ p{
 }
 .footer{
     margin-top: auto;
-    padding: 5px;
+    padding: 10px;
     font-weight: auto;
     font-size: 64px;
+    text-align: justify;
    
 }
+#aboutme {
+    margin-top: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 2px rgb(24, 24, 24);
+    border-radius: 50px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: 16px;
+    color: black;    
+  }
+img{
+    border-radius: 10px;
+}
+
