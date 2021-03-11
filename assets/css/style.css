@@ -78,6 +78,8 @@ p{
   }
 img{
     border-radius: 10px;
+    max-width: 100%;
+    
 }
 #spacer {
     margin-top: 20px;
