@@ -6,7 +6,6 @@
 
 }
 
-
 body {
     padding-bottom: 60px;   
 
@@ -25,8 +24,6 @@ section{
     background-color:lightgreen;
     border-radius: 50px; 
     background-size: auto;
-
-   
 }
 
 p{
@@ -64,7 +61,7 @@ p{
     padding: 10px;
     font-weight: auto;
     font-size: 64px;
-    text-align: justify;
+    text-align: center;
    
 }
 #aboutme {
@@ -82,4 +79,6 @@ p{
 img{
     border-radius: 10px;
 }
-
+#spacer {
+    margin-top: 20px;
+  }
